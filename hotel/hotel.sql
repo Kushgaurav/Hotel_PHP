@@ -53,7 +53,9 @@ CREATE TABLE IF NOT EXISTS `login` (
 
 INSERT INTO `login` (`id`, `usname`, `pass`) VALUES
 (1, 'Admin', '1234'),
-(2, 'Prasath', '12345');
+(2, 'shivam', '1234'),
+(3, 'amit', '1234'),
+(4, 'gaurav', '1234');
 
 -- --------------------------------------------------------
 
